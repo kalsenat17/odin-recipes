@@ -1,0 +1,11 @@
+.odin,
+.ca {
+    color: rgb(226, 222, 215);
+    background-color: darkgoldenrod;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.recipes {
+  color: darkgreen;  
+}
