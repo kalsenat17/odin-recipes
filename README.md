@@ -1,3 +1,1 @@
-# odin-recipes
-
-Testing testing 123
+Created a simple wepage with three recipes including links and images. With this first project, I was able to apply the knowledge I've learned and used ordered and unordered lists, tags and git to create and upload project to github.
